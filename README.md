@@ -16,7 +16,7 @@ Example :
 ```js
 Ext.ux.ActivityMonitor.init({
 	isInactive: (monitor) => {
-		console.log("User is inactive, should disconnect);
+		console.log("User is inactive, should disconnect");
 		// then we restart the monitor for further inactivity tracking
 		monitor.start();
 	}
