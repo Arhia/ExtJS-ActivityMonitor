@@ -10,7 +10,7 @@ ActivityMonitor() watches the browser's BODY element for mouse movement and keys
 
 ### 1.1
 
-- fork of https://github.com/arthurakay/ExtJS-Activity-Monitor
+- initial fork
 - the monitor object is now passed to callbacks `isActive()` and `isInactive()` : it's convenient to restart monitor after reaching inactivity limit.  
 Example : 
 ```js
