@@ -6,6 +6,8 @@ ActivityMonitor() watches the browser's BODY element for mouse movement and keys
 
 *This repo is a fork of https://github.com/arthurakay/ExtJS-Activity-Monitor, which is no more maintained*
 
+This component is used in Arhia applications and we aim to maintain it.
+
 ### Changelog
 
 ### 1.1
